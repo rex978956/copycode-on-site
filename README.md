@@ -1,4 +1,4 @@
-# CopyCode on Site
+# Copycode on Site
 
 ## Notice
 
