@@ -5,7 +5,7 @@
 // @require     https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.4.0/clipboard.min.js
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
-// @version     1.0
+// @version     1.1
 // @author      bandit
 // @description 2021/5/28 下午14:46:33
 // @run-at document-start
