@@ -2,7 +2,7 @@
 
 ## Notice
 
-- 本專案預設可執行在任何具程式碼 highlightjs 功能之網站。
+- 本專案預設可執行在任何具顯示程式碼功能之網站。
 
 - 本腳本僅供研究用途，不保證其穩定性以及正確性
 - 如使用上碰到任何狀況，歡迎 [提出問題](https://github.com/rex978956/copycode-on-site/issues/new)
