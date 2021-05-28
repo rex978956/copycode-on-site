@@ -7,7 +7,7 @@
 // @grant       GM_getResourceText
 // @version     1.0
 // @author      bandit
-// @description 2021/5/28 下午12:10:33
+// @description 2021/5/28 下午14:46:33
 // @run-at document-start
 // ==/UserScript==
 
